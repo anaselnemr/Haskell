@@ -74,9 +74,4 @@ Submitted for *Concepts of Programming Languages* (CPL) at the German University
 
 ## Authors
 
-- Anas ElNemr
-- Ahmed Eltawel
-
-## Acknowledgements
-
-Friendly mirror of [github.com/ahmedeltawel/Haskell](https://github.com/ahmedeltawel/Haskell) — joint coursework, both copies preserved.
+Anas ElNemr  ·  Ahmed Eltawel
